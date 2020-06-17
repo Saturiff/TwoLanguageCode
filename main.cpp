@@ -7,11 +7,11 @@
 int main()
 {
 #ifndef __cplusplus
-	'''
+'''
 #endif
 print("Hello world!");
 #ifndef __cplusplus
-	'''
+'''
 #endif
 }
 #ifndef __cplusplus
